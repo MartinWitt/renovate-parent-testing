@@ -7,12 +7,12 @@
     {
       "groupId": "org.apache.commons",
       "artifactId": "commons-lang3",
-      "version": "3.5",
+      "version": "3.13.0",
       "checksumAlgorithm": "SHA-256",
-      "checksum": "8ac96fc686512d777fca85e144f196cd7cfe0c0aec23127229497d1a38ff651c",
+      "checksum": "82f528cf718c7a3c2f30fc5bc784e3c6a0a10b17605dadb9e16c82ede11e6064",
       "scope": "compile",
-      "selectedVersion": "3.5",
-      "id": "org.apache.commons:commons-lang3:3.5",
+      "selectedVersion": "3.13.0",
+      "id": "org.apache.commons:commons-lang3:3.13.0",
       "children": []
     },
     {
@@ -30,9 +30,9 @@
   "mavenPlugins": [],
   "metaData": {
     "environment": {
-      "osName": "Windows 11",
-      "mavenVersion": "3.9.1",
-      "javaVersion": "20.0.2"
+      "osName": "Linux",
+      "mavenVersion": "3.6.3",
+      "javaVersion": "11.0.20.1"
     },
     "config": {
       "includeMavenPlugins": false,
