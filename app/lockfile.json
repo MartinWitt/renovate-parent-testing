@@ -1,0 +1,45 @@
+{
+  "artifactId": "app",
+  "groupId": "com.example",
+  "version": "0.0.1-SNAPSHOT",
+  "lockFileVersion": 1,
+  "dependencies": [
+    {
+      "groupId": "org.apache.commons",
+      "artifactId": "commons-lang3",
+      "version": "3.5",
+      "checksumAlgorithm": "SHA-256",
+      "checksum": "8ac96fc686512d777fca85e144f196cd7cfe0c0aec23127229497d1a38ff651c",
+      "scope": "compile",
+      "selectedVersion": "3.5",
+      "id": "org.apache.commons:commons-lang3:3.5",
+      "children": []
+    },
+    {
+      "groupId": "org.slf4j",
+      "artifactId": "slf4j-api",
+      "version": "1.7.30",
+      "checksumAlgorithm": "SHA-256",
+      "checksum": "cdba07964d1bb40a0761485c6b1e8c2f8fd9eb1d19c53928ac0d7f9510105c57",
+      "scope": "compile",
+      "selectedVersion": "1.7.30",
+      "id": "org.slf4j:slf4j-api:1.7.30",
+      "children": []
+    }
+  ],
+  "mavenPlugins": [],
+  "metaData": {
+    "environment": {
+      "osName": "Windows 11",
+      "mavenVersion": "3.9.1",
+      "javaVersion": "20.0.2"
+    },
+    "config": {
+      "includeMavenPlugins": false,
+      "reduced": false,
+      "mavenLockfileVersion": "5.0.0",
+      "checksumMode": "maven_local",
+      "checksumAlgorithm": "SHA-256"
+    }
+  }
+}
