@@ -7,9 +7,9 @@
   "mavenPlugins": [],
   "metaData": {
     "environment": {
-      "osName": "Windows 11",
-      "mavenVersion": "3.9.1",
-      "javaVersion": "20.0.2"
+      "osName": "Linux",
+      "mavenVersion": "3.6.3",
+      "javaVersion": "11.0.20.1"
     },
     "config": {
       "includeMavenPlugins": false,

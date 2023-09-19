@@ -18,21 +18,21 @@
     {
       "groupId": "org.slf4j",
       "artifactId": "slf4j-api",
-      "version": "1.7.30",
+      "version": "1.7.36",
       "checksumAlgorithm": "SHA-256",
-      "checksum": "cdba07964d1bb40a0761485c6b1e8c2f8fd9eb1d19c53928ac0d7f9510105c57",
+      "checksum": "d3ef575e3e4979678dc01bf1dcce51021493b4d11fb7f1be8ad982877c16a1c0",
       "scope": "compile",
-      "selectedVersion": "1.7.30",
-      "id": "org.slf4j:slf4j-api:1.7.30",
+      "selectedVersion": "1.7.36",
+      "id": "org.slf4j:slf4j-api:1.7.36",
       "children": []
     }
   ],
   "mavenPlugins": [],
   "metaData": {
     "environment": {
-      "osName": "Windows 11",
-      "mavenVersion": "3.9.1",
-      "javaVersion": "20.0.2"
+      "osName": "Linux",
+      "mavenVersion": "3.6.3",
+      "javaVersion": "11.0.20.1"
     },
     "config": {
       "includeMavenPlugins": false,
